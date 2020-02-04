@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mi U - App </string>
+    <string name="Nombre">Nombre</string>
+    <string name="Email">E-mail</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Password">Password</string>
+    <string name="RepPassword">Repetir Password</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Hombre">Hombre</string>
+    <string name="Mujer">Mujer</string>
+    <string name="Deporte">Deporte</string>
+    <string name="Pasear">Pasear</string>
+    <string name="Leer">Leer</string>
+    <string name="Dormir">Dormir</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Hobby">Hobby</string>
+    <string name="Fecha">Fecha</string>
+    <string name="FechaNacimiento">FechaNacimiento</string>
+    <string name="CiudadNacimiento">CiudadNacimiento</string>
+    <string name="LogOut">Cerrar sesión</string>
+    <string name="Registrar">Registrarse</string>
+    <string name="IniciarSesion">Login</string>
+    <string name="MiU_App">Mi U - App</string>
+</resources>
